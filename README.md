@@ -1,4 +1,5 @@
 # Capital Bike Data Exploration
+## by Ibukun Irinyenikan
 
 ## Dataset
 

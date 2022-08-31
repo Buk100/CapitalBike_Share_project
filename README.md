@@ -93,8 +93,7 @@ each month of the year, days of the week and variouss periods of the day.
 I showed these results on a well labelled bar chart.
 
 ##### Limitaion
-
-    - I must mention that the exploration in this project does not imply causation. 
-    Advanced exploration process such as prediction with machine learning algorithm  is required to make predictions.
-    - Also, I didn't consider the speed of bikes in this exploration to determine how fast the kinds of bikes are.
-    - I was unable to lay my hand on the weather dataset to make deeper findings on some of the variables.
+- I must mention that the exploration in this project does not imply causation. 
+- Advanced exploration process such as prediction with machine learning algorithm  is required to make predictions.
+- Also, I didn't consider the speed of bikes in this exploration to determine how fast the kinds of bikes are.
+- I was unable to lay my hand on the weather dataset to make deeper findings on some of the variables.
